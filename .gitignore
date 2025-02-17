@@ -127,6 +127,9 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+logs
+Create_user.txt
+ClimaInsights_venv_wsl
 
 # Spyder project settings
 .spyderproject
